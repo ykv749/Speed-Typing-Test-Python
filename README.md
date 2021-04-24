@@ -14,11 +14,6 @@ You need python 3 and pip to install and use this on your machine.
 pip install tkinter
 ```
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * Download the project
